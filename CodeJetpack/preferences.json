@@ -1,0 +1,8 @@
+{
+  "projectName": "CodeJetPack",
+  "targetFramework": "net9.0",
+  "classPrefix": "Jf",
+  "preferMicrosoftNuGet": true,
+  "projectType": "console",
+  "businessLibrary": "CodeJetpack.Business"
+}
